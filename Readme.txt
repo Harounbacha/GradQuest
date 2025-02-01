@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+GradQuest
 
-Template Name: HeroBiz
-Template URL: https://bootstrapmade.com/herobiz-bootstrap-business-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+so thats a templete we gonna work with it for GradQuest 
+
+its a simple html css js project i copy it from cde.dz 
